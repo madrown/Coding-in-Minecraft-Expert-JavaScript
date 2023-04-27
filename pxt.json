@@ -7,6 +7,7 @@
         "builder": "*"
     },
     "files": [
+        "Lesson1/1.1/1.1.md",
         "README.md",
         "main.blocks",
         "main.ts"
